@@ -1,1 +1,0 @@
-I use CDN to link bootstrab to make it easier in upload to github
